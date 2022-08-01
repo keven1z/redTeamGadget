@@ -14,6 +14,7 @@ python3 manager.py runserver
 * jenkins 未授权漏洞
 * kibana<6.6.1未授权漏洞
 * springboot actuator eureka未授权 RCE
+* 未完待续
 
 ## 参考
 * https://github.com/IOActive/jdwp-shellifier.git
